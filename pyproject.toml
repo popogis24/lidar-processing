@@ -1,0 +1,11 @@
+[project]
+name = "lidar-processing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "laspy>=2.5.4",
+    "numpy>=2.2.4",
+    "rasterio>=1.4.3",
+]
