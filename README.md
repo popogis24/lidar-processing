@@ -1,5 +1,5 @@
 
-# Metodologia para Processamento de Dados LiDAR de Vegetação em Linhas de Transmissão
+# Metodologia para Processamento de Dados LiDAR de Vegetação
 
 ## 1. Etapa: Leitura e Filtragem dos Dados LiDAR (.las)
 
